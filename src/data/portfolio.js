@@ -7,9 +7,9 @@ export default [
     },
     {
         title: 'Automated Greenhouse Capstone',
-        imgUrl: '',
+        imgUrl: '/assets/greenhousePoster.jpg',
         stack: ['Kotlin', 'Java', 'SQL', 'AWS', 'Grafana', 'Arduino IDE'],
-        link: 'https://https://github.com/amritspandher',
+        link: 'https://github.com/amritspandher/Automated-Greenhouse-Capstone',
     },
     {
         title: 'Community Transit Java API',
