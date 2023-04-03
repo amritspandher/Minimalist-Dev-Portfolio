@@ -1,7 +1,7 @@
 export default [
     {
         year: '2018-2022',
-        title: 'Computer Science BS',
+        title: 'Computer Science B.S.',
         duration: '4 years',
         details:
             'I am a recent graduate from the Bachelor of Science in \
@@ -16,7 +16,7 @@ export default [
         title: 'Menswear Consultant/Salesperson',
         duration: '2 years',
         details: 
-            'Prior to enrollment into the Computer Science Major, I developed my \
+            'I developed my \
             soft skills and ability to work with a team to reach sales goals during \
             a menswear consultation role at Bonobos. This experience consisted of building \
             rapport with customers and providing detailed guidance on company products.'
