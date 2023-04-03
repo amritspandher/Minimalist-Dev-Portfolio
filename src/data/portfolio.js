@@ -11,4 +11,10 @@ export default [
         stack: ['Kotlin', 'Java', 'SQL', 'AWS', 'Grafana', 'Arduino IDE'],
         link: 'https://github.com/amritspandher/Automated-Greenhouse-Capstone',
     },
+    {
+        title: 'Minimalistic Developer Portfolio',
+        imgUrl: '/assets/portfolioScreenshot.jpg',
+        stack: ['React', 'Javascript', 'HTML', 'CSS'],
+        link: 'https://github.com/amritspandher/Minimalist-Dev-Portfolio',
+    },
 ]
