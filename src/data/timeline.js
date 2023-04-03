@@ -4,8 +4,7 @@ export default [
         title: 'Computer Science B.S.',
         duration: '4 years',
         details:
-            'I am a recent graduate from the Bachelor of Science in \
-            Computer Science program at Bellevue College. During the program \
+            'During the program \
             I completed relevant courses in Data Structures, Algorithms, Database Systems, \
             Computer Architecture, Probability and Statistical Modeling, \
             Software Engineering, Data Science, Deep Learning, Operating Systems, \
