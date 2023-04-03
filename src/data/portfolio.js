@@ -3,7 +3,7 @@ export default [
         title: 'Avian Influenza CDC Dataset Analysis',
         imgUrl: '/assets/H1Z1AnalysisProgress.jpg',
         stack: ['SQL', 'PowerBI', 'Excel'],
-        link: 'https://https://github.com/amritspandher',
+        link: 'https://github.com/amritspandher',
     },
     {
         title: 'Automated Greenhouse Capstone',

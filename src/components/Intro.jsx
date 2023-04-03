@@ -12,9 +12,9 @@ function Intro() {
             mb-1 
             md:mb-3 
             font-bold">
-            Amrit
+            Amrit Pandher
             </h1>
-            <p className="text-base md:text-xl mb-3 font-medium">Software Engineer & Data Analyst</p>
+            <p className="text-base md:text-xl mb-3 font-medium italic">Software Engineer & Data Analyst</p>
             <p className="text-sm max-w-xl mb-6 font-bold">
                 I am a recent graduate with a B.S. in Computer Science (August 2022).
                 My goal is to utilize my experience and aptitude from working in team-oriented environments during an opportunity to gain experience in the field of software engineering.
