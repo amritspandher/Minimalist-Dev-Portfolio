@@ -11,10 +11,4 @@ export default [
         stack: ['Kotlin', 'Java', 'SQL', 'AWS', 'Grafana', 'Arduino IDE'],
         link: 'https://github.com/amritspandher/Automated-Greenhouse-Capstone',
     },
-    {
-        title: 'Community Transit Java API',
-        imgUrl: '',
-        stack: ['Java'],
-        link: 'https://https://github.com/amritspandher',
-    }
 ]
