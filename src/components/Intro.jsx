@@ -17,7 +17,7 @@ function Intro() {
                 My goal is to utilize my experience and aptitude from working in team-oriented environments during an opportunity to gain experience in the field of software engineering.
                 My current pursuit is performing data analyses and trend detection of large datasets in the domain of health and growing my knowledge of optimized coding/problem solving.
                 If you would like to connect feel free to reach out!  </p>
-            <p className="text-sm max-w-xl font-bold text-red-500">
+            <p className="text-sm max-w-xl font-bold text-red-800">
                 [Avian Influenza CDC Dataset Analysis GitHub Repo In-Progress]
             </p>
             <p className="text-sm max-w-xl font-bold text-green-600">
