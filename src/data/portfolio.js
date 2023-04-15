@@ -2,8 +2,8 @@ export default [
     {
         title: 'Avian Influenza CDC Dataset Analysis',
         imgUrl: '/assets/H1Z1AnalysisProgress.jpg',
-        stack: ['SQL', 'PowerBI', 'Excel'],
-        link: 'https://github.com/amritspandher',
+        stack: ['Python', 'SQL', 'PowerBI', 'Excel'],
+        link: 'https://github.com/amritspandher/Avian-Influenza-Analysis',
     },
     {
         title: 'Automated Greenhouse Capstone',
