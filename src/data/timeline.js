@@ -1,5 +1,15 @@
 export default [
     {
+        year: '2023 - Present',
+        title: 'Business Intelligence Analyst',
+        duration: '1 year',
+        details:
+            'My core tasks at Spacelabs Healthcare consist of the \
+            dissection of ERP, CRM, and CPQ data. Through the organization \
+            and visualization of actionable business metrics and KPIs, this \
+            information is presented and tailored to end-user needs.'
+    },
+    {
         year: '2018-2022',
         title: 'Computer Science B.S.',
         duration: '4 years',

@@ -13,10 +13,10 @@ function Intro() {
             </h1>
             <p className="text-base md:text-xl mb-3 font-medium italic">Software Engineer & Data Analyst</p>
             <p className="text-sm max-w-xl mb-6 font-bold">
-                I am a recent graduate with a B.S. in Computer Science (August 2022).
-                My goal is to utilize my experience and aptitude from working in team-oriented environments during an opportunity to gain experience in the field of software engineering.
-                My current pursuit is performing data analyses and trend detection of large datasets in the domain of health and growing my knowledge of optimized coding/problem solving.
-                If you would like to connect feel free to reach out!  </p>
+                Business Intelligence Analyst at Spacelabs Healthcare with a focus on visualizing and 
+                presenting data in digestable formats dependent on company needs. My current passion project
+                involves the analysis of CDC Avian Influenza data in order to detect trends and forecasting
+                potential outbreaks. If you would like to connect feel free to reach out!  </p>
             <p className="text-sm max-w-xl font-bold text-red-800">
                 [Avian Influenza CDC Dataset Analysis GitHub Repo In-Progress]
             </p>
